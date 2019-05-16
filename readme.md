@@ -6,6 +6,8 @@ A simple web application for movie fanatic
 - searching movies by title
 - add movies to your favorite list
 - manage your favorite list
+  - this is a test for markdown
+  + this is another test for markdown 
 
 ### Searching
 type the title of the movies in search bar
