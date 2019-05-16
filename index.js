@@ -6,6 +6,7 @@
   const pagination = document.getElementById('pagination')
   const ITEM_PER_PAGE = 12
   let paginationData = []
+  let nothing = ''
 
   axios.get(`https://movie-list.alphacamp.io/api/v1/movies/`)
     .then((response) => {
