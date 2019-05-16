@@ -17,3 +17,4 @@ You can checkout the favorite list in `favorite.html`
 press `x` to remove it from favorite list
 
 ### Mike's edit
+##### Danny's here,too.
